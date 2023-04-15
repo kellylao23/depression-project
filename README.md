@@ -1,4 +1,4 @@
-# depression-project
+# Early Detection of Major Depression in Adolescents
 
 Major depressive disorder (MDD) is a common disorder among adolescents, with lifetime recurrence rates of ~70%. MDD has been on the rise in recent years, impacting adolescents particularly with a 63% increase from 2013 to 2016. However, early signs of depression often go unnoticed among adolescents; moreover fears of stigmatization and concerns of confidentiality impose barriers for them to seek help. 
 
